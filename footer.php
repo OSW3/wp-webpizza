@@ -41,7 +41,7 @@
             </div>
 
             <div class="footer-copyright">
-                &copy; YYYY TITRE DU SITE
+                &copy; YYYY <?= bloginfo() ?>
             </div>
         </div>
     </footer>
